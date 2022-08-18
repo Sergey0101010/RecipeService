@@ -1,5 +1,5 @@
 # RecipesService 
-Сервис рецептов проготовления блюд.
+Сервис рецептов приготовления блюд.
 
 **Stack:** Java 17, Spring boot, Spring Security, Hibernate, MySQL, Gradle.
 ## Описание.
